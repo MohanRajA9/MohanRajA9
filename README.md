@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👋 Hi there I'm Mohan Raj 
+
+I'm a Fullstack Web Developer with a passion for building dynamic and user-friendly web applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have extensive experience with javaScript, HTML and CSS. I thrive on solving complex problems and crafting seamless, efficient user experiences.
+
+Feel free to explore my repositories and connect with me if you share similar interests or have exciting opportunities!
+
+📫 How to reach me:
+- akmohanraj555@gmail.com
+
 
 <!--
 **MohanRajA9/MohanRajA9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
